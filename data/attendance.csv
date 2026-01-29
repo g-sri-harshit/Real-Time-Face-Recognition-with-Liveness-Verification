@@ -1,0 +1,22 @@
+name,time,punch_type,face_score,liveness_score,final_confidence,status,rejection_reason
+r[sai kamal,2026-01-29 01:40:46,Punch-In,0.971,0.9,0.95,ACCEPTED,
+r[sai kamal,2026-01-29 01:41:08,Punch-Out,0.988,0.9,0.961,ACCEPTED,
+r[sai kamal,2026-01-29 01:45:15,Punch-In,0.985,0.9,0.96,ACCEPTED,
+r[sai kamal,2026-01-29 01:45:26,Punch-Out,0.973,0.9,0.951,ACCEPTED,
+r[sai kamal,2026-01-29 01:46:24,Punch-In,0.952,0.9,0.936,ACCEPTED,
+r[sai kamal,2026-01-29 01:46:31,Punch-In,0.983,0.9,0.958,ACCEPTED,
+r[sai kamal,2026-01-29 01:46:43,Punch-In,0.971,0.9,0.95,ACCEPTED,
+r[sai kamal,2026-01-29 01:49:05,Punch-In,0.981,0.76,0.893,ACCEPTED,
+r[sai kamal,2026-01-29 01:50:50,Punch-In,0.975,0.76,0.889,ACCEPTED,
+r[sai kamal,2026-01-29 01:51:00,Punch-In,0.979,0.865,0.934,ACCEPTED,
+r[sai kamal,2026-01-29 01:52:34,Punch-In,0.983,0.865,0.936,ACCEPTED,
+r[sai kamal,2026-01-29 01:59:58,Punch-In,0.927,0.779,0.875,REJECTED,LOW_CONFIDENCE
+r[sai kamal,2026-01-29 02:04:51,Punch-In,0.925,0.76,0.867,REJECTED,LOW_CONFIDENCE
+r[sai kamal,2026-01-29 02:19:38,Punch-In,0.93,0.76,0.87,REJECTED,LOW_CONFIDENCE
+Harshit,2026-01-29 02:21:01,Punch-In,0.995,0.775,0.918,ACCEPTED,
+Harshit,2026-01-29 02:23:51,Punch-In,0.996,0.775,0.919,ACCEPTED,
+Harshit,2026-01-29 02:23:58,Punch-Out,0.994,0.76,0.912,ACCEPTED,
+Harshit,2026-01-29 02:31:42,Punch-In,0.99,0.805,0.925,ACCEPTED,
+Harshit,2026-01-29 02:31:48,Punch-Out,0.991,0.76,0.91,ACCEPTED,
+Harshit,2026-01-29 03:10:27,Punch-In,0.994,0.76,0.912,ACCEPTED,
+Harshit,2026-01-29 03:10:54,Punch-Out,0.991,0.76,0.91,ACCEPTED,
